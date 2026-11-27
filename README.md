@@ -34,4 +34,4 @@ y useEffect para guardar los cambios en localStorage.
 3. Ejecutar npm run dev.
 
 ## Autor
-Tu nombre
+Fatima Celeste Larramendia 
